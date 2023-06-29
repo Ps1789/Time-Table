@@ -1,0 +1,271 @@
+<html>
+<head>
+<style>
+a
+{
+color:yellow;
+}
+a
+{
+color:blue;
+}
+div.one
+{
+color: white;
+}
+div.two
+{
+   position: absolute;
+  bottom: 200px;
+  left: 50px;
+}
+div.three
+{
+   position: absolute;
+  top: 1200px;
+  right: 30px;
+}
+h1
+{
+text-align:center
+}
+h2 {
+font-family: "Monotype Corsiva";
+}
+</style>
+</head>
+<body>
+<div class="one"><img src="C:\Users\dharm\Pictures\Saved Pictures\download3.jpg" height=400 width=1600></div>
+<div class="two"><img src="C:\Users\dharm\Pictures\Saved Pictures\download.png"></div>
+<h1>AMRAPALI GROUP OF INSTITUTES</h1>
+<br>
+<marquee><a href = "http://localhost/login3/login.php">LOGIN PAGE</marquee>
+<br>
+<br>
+<br>
+<fieldset>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="C:\Users\HOME\Desktop\h1.html">HOME</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="C:\Users\dharm\Desktop\New folder (2)\h2.html">ABOUT US</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="C:\Users\ACADEMICS\Desktop\h3.html">ACADEMICS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="C:\Users\ADMISSIONS\Desktop\h4.html">ADMISSIONS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="C:\Users\TRAINING & PLACEMENTS\Desktop\h5.html">TRAINING & PLACEMENTS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="C:\Users\CONTACT US\Desktop\h6.html">CONTACT US</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="C:\Users\ALIMNI\Desktop\h7.html">ALUMNI</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="C:\Users\CONTACT US\Desktop\h8.html">AGI LMS</a>
+</fieldset>
+<br><br>
+<fieldset>
+Amrapali Group of Institutes (AGI) came into existence in 1999 under the aegis of Modern Academy Society. It is located in Haldwani and stands among the top private universities in the region. In a span of 20 years, the group has shown promising improvement and has been ranked amongst the top 10 the best private institute of Hotel Management in India by Drishti Outlook Survey 2018, 2019.
+
+There are four faculties under AGI:
+
+Faculty of Technology and Computer Applications
+Faculty of Hospitality Management
+Faculty of Education
+Faculty of Pharmacy
+The technical courses offered by these institutes are approved by All India Council for Technical Education (AICTE). The teaching courses are taught only after approval from National Council for Teacher Education.
+<br><br>
+All the institutions are affiliated to Uttarakhand Technical University, Kumaun University, Uttarakhand Open University and Uttarakhand Board of Technical Education. These affiliations ensure best-in-class education for all students, ensuring a high employability rate.
+<br><br>
+Amrapali Group of Institutes have 3,800+ students at present. These students are mentored by over 200 Faculty members. There is a unique mentorship programme at the institute where each focus is paid on individual students. It is a wifi-enabled campus with advanced computing facilities. The library of Amrapali Group of Institutions is one of the best libraries in Uttarakhand.
+<br><br>
+Amrapali Group of Institutes Highlights
+There are some facts about Amrapali Group of Institutions that make this chain of institutions one of the most preferred choices in Uttarakhand:
+<br>
+<table border=1>
+<TH>PARTICULARS</TH>
+<TH>STATS</TH>
+<tr>
+<td>YEAR OF ESTABLISHMENT</td>
+
+<td>1999</td>
+</TR>
+<TR>
+<td>COURSE OFFERED</td>
+
+<td>UG , PG AND DIPLOMA</td>
+</TR>
+<TR>
+<td>RANKING</td>
+
+<td>-Ranked among top 10 BCA Colleges in India by GHRDC TIMES Annual Survey Report 2020
+
+-Ranked amongst Top 10 Promising Business Management Institute in India CSR-GHRDC Survey</td>
+</TR>
+<TR>
+<td>ADMISSION CRITERIA</td> 
+
+<td>MERIT-BASED</td>
+</TR>
+<TR>
+<td>MODE OF APPLICATION</td>
+
+<td>ONLINE AND OFFLINE</td>
+
+</TR>
+<TR>
+<td>APPLICATION FEE</td> 
+
+<td>Rs.2000</td>
+</TR>
+<TR>
+<td>OFFICIAL WEBSITE</td>
+<td>WWW.AMRAPALI.AC.IN</td>
+</TR>
+</table>
+<br><br>
+<ol>
+<b><i><u><h2><li><font color="red">Amrapali Group of Institutes Ranking</font></li></h2></u></i></b>
+<ul>
+<li> Ranked among top 10 BCA Colleges in India by GHRDC TIMES Annual Survey Report 2020 </li>
+<br>
+<li> Ranked amongst top 10 the best private institute of Hotel Management in India by Drishti Outlook Survey 2018, 2019 </li>
+<br>
+<li> Ranked amongst Top 10 Promising Business Management Institute in India CSR-GHRDC Survey 2013, 2014, 2015, 2019 and 2020 </li>
+<br>
+<li> Ranked amongst top private institutes by Hansa Research Survey 2016, 2017, 2018 and 2019 published in The Week magazine </li>
+<br>
+<li> Top ranked Hotel Management Institute in State for last nine years GHRDC </li>
+<br>
+<li> Amongst Top Ranked Emerging Engineering College in India Higher Education Survey </li>
+<br>
+<li> Awarded Best Institute of Academic Excellence in Uttarakhand Worldwide Achiever Survey </li>
+<br>
+<li> Ranked among the top 5 private institutes by The Knowledge Review Survey </li>
+<br>
+<li> Ranked amongst Top 10 Hotel Management Institute of super excellence in India GHRDC 2015, 2016, 2017, 2018, 2019 and 2020 </li>
+<br>
+<li> Education Excellence Award by Tv100 2017-18 </li>
+<br>
+<li> Ranked amongst Top 30 Hotel Management Institute in India THE WEEK </li>
+<br>
+<li> Top 70 BBA Institute as per Times Survey 2019 </li>
+<br>
+<li> Top 21 BBA Institute as per GHRDC Survey 2019 </li>
+<br>
+<li> Category "A" Business School for MBA in Northern India by Chronicle Survey 2019 </li>
+<br>
+<li> Top 10 Promising B School for MBA in India as per GHRDC Survey 2013,14,15,16,17,18,19 </li>
+</ul>
+<br><br>
+<i><u><h2><li><font color="red"> Amrapali Group of Institutes Admission Process</font> </li></h2></u></i>
+<br><br>
+The admission process of various UG and PG courses is merit-based. For UG courses, candidates need to clear Class 12. The percentage and the stream of study depends on the choice of programme. For PG courses, graduation is a must. The minimum percentage depends on the programmes selected by students.
+<br><br>
+<i><u><h2><li><font color="red"> Amrapali Group of Institutes Courses</font> </li></h2></u></i>
+<br>
+Amrapali Group of Institution offers 18 full-time courses in fields such as Management, Hospitality, Commerce, Pharmacy and many more. Details of some of the top courses opted by the students are mentioned below:
+<br>
+<table border=1>
+<th>COURSE</th>
+<th>ELIGIBILITY CRITERIA</th>
+<th>SEMESTER FEE</th>
+<tr>
+<td>BBA</td>
+<td>Candidates need to clear Class 12 with at least 40% aggregate from a recognised board</td>
+<td>Rs.32,500</td>
+</tr>
+<tr>
+<td>BHMCT</td>
+<td>Candidates need to clear Class 12 with English and score at least 45% aggregate from a recognised board</td>
+<td>Rs.47,500</td>
+</tr>
+<tr>
+<td>BTech
+
+-CSE
+
+-ECE
+
+-EEE</td>
+<td>Candidates need to clear Class 12 with Physics and Maths as compulsory subjects with at least 45% aggregate from a recognised board</td>
+<td>Rs.38,500</td>
+</tr>
+<tr>
+<td>BPHARMA</td>
+<td>Candidates need to clear Class 12 in PCM/PCB/PCMB from a recognised university</td>
+<td>Rs.37,500</td>
+</tr>
+<tr>
+<td>MBA</td>
+<td>Candidates need to clear graduation in any stream with at least 50% aggregate from a recognised university</td>
+<td>Rs.55000</td>
+</tr>
+</table>
+<i><u><h2><li> <font color="red"> Amrapali Group of Institutes Placement </font></li></h2></u></i>
+<br>
+Amrapali Group is pro-active when it comes to providing placements to its students. In 2019, more than 700 students got jobs in top companies. Students are provided employability training programs before the final placements take place. Some of the top companies that offered jobs in 2020 are mentioned below:
+<br><br>
+<ul>
+<li>The Leela</li>
+<li>Deloitte</li>
+<li>Onantrix</li>
+<li>Justdial</li>
+<li>Nexa</li>
+<li>Tata</li>
+<li>TDI</li>
+<li>Vivo</li>
+</ul>
+<br><br>
+<u><i><h2><li><font color="red">Amrapali Group of Institutes Scholarship</font></li></h2></i></u>
+</ol>
+<br>
+Amrapali Group of Institution offers various scholarships to students. These scholarships are both, merit-based and need-based. Students get upto 100 per cent rebate on the tuition fee. Other categories of scholarships are mentioned below:
+<br>
+<ul>
+<li>For martyrs, defence forces, para-military serving people dependents</li>
+<li>Brothers, sister concession for existing students</li>
+<li>AGI faculty members referral</li>
+<li>Loyalty scholarships for existing AGI students enrolling to PG courses</li>
+</ul>
+<br><br>
+<center>
+<table border=1>
+
+<tr>
+<th> Established </th>
+<td> 1999 </td>
+</tr>
+
+<tr>
+<th> Also Known As </th>
+<td> AGI </td>
+</tr>
+
+<tr>
+<th> City </th>
+<td> Haldwani </td>
+</tr>
+
+<tr>
+<th> Website</th>
+<td> www.amrapali.ac.in </td>
+</tr>
+
+<tr>
+<th> Popular Courses </th>
+<td> B.Ed , B.E./B.TECH </td>
+</tr>
+
+<tr>
+<th> Ownership </th>
+<td> private </td>
+</tr>
+
+<tr>
+<th> Total Courses </th>
+<td> 20 courses across 8 streams </td>
+</tr>
+</table>
+</center>
+</fieldset>
+</body>
+</html>
