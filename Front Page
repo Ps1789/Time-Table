@@ -1,13 +1,23 @@
 <html>
 <head>
 <style>
-a
-{
-color:yellow;
+a:link {
+  color: blue;
 }
-a
-{
-color:blue;
+
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
 }
 div.one
 {
@@ -266,6 +276,7 @@ Amrapali Group of Institution offers various scholarships to students. These sch
 </tr>
 </table>
 </center>
+<a href ="http://localhost/php1/index1.php">USER REGISTRATION</a>
 </fieldset>
 </body>
 </html>
